@@ -1,0 +1,7 @@
+This is another text file
+A line 1
+a line 1
+Not A line
+A line 2
+a line 2
+a line 3
